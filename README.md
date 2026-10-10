@@ -1,4 +1,4 @@
-# 🍽️ La Canyada — Restaurant Delivery & Operations Platform
+# Restaurant Delivery & Operations Platform
 
 [![React](https://img.shields.io/badge/React-19-blue.svg?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
